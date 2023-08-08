@@ -18,6 +18,3 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelepiYakup&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=CelepiYakup)  
-
-![Profile views](https://gpvc.arturio.dev/CelepiYakup)  
