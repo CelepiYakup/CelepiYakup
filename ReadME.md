@@ -7,9 +7,8 @@
 🌱 I keep improving myself to JavaScript and React.
 📫 How to reach me? You can send a e-mail. I will respond as soon as possible
 
-Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+Skills: REACT / JS / HTML / CSS /JAVA
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelepiYakup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yakup-çelepi-ba53591b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Celebiiyakup/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Celebiiyakup)  
