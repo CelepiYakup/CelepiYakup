@@ -1,21 +1,23 @@
-### Hi there 👋, Yakup Celepi
-#### Front-Ent Software Development
-![Front-Ent Software Development]()
-<img align="right" alt"codding" width"400" src "![image](https://github.com/CelepiYakup/CelepiYakup/assets/135622873/2408485f-9f12-405c-8a1a-ac4791367932)
-">
+<h1 align="center">Hi 👋, I'm Yakup Celepi</h1>
+<h3 align="center">Front-Ent Web Developer</h3>
 
-👋 Hi, I’m @CelepiYakup
-👀 I’m interested in Software Languages and Street Photographers
-🌱 I keep improving myself to JavaScript and React.
-📫 How to reach me? You can send a e-mail. I will respond as soon as possible
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celepiyakup" alt="celepiyakup" /></a> </p>
 
-Skills: REACT / JS / HTML / CSS /JAVA
- 
+- 🌱 I’m currently learning **JS and React**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/celebiiyakup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="celebiiyakup" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yakup-çelepi-ba53591b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakup-çelepi-ba53591b9" height="30" width="40" /></a>
+<a href="https://instagram.com/celebiiyakup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="celebiiyakup" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yakupcelepi56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yakupcelepi56" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CelepiYakup)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yakup-çelepi-ba53591b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Celebiiyakup/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Celebiiyakup)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelepiYakup)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=celepiyakup&show_icons=true&locale=en&layout=compact" alt="celepiyakup" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelepiYakup&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celepiyakup&show_icons=true&locale=en" alt="celepiyakup" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celepiyakup&" alt="celepiyakup" /></p>
