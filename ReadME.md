@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yakup Celepi</h1>
 <h3 align="center">Front-Ent Web Developer</h3>
 
+<img align="right" alt="codding" width="400" src"https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celepiyakup" alt="celepiyakup" /></a> </p>
 
 - 🌱 I’m currently learning **JS and React**
