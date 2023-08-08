@@ -1,6 +1,8 @@
 ### Hi there 👋, Yakup Celepi
 #### Front-Ent Software Development
-![Front-Ent Software Development]([https://pbs.twimg.com/profile_banners/1288182446299721737/1691519759/600x200](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif))
+![Front-Ent Software Development]()
+<img align="right" alt"codding" width"400" src "![image](https://github.com/CelepiYakup/CelepiYakup/assets/135622873/2408485f-9f12-405c-8a1a-ac4791367932)
+"
 
 👋 Hi, I’m @CelepiYakup
 👀 I’m interested in Software Languages and Street Photographers
