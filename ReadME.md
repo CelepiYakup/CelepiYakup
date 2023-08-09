@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yakup Celepi</h1>
 <h3 align="center">Front-Ent Web Developer</h3>
 
-![image](https://github.com/CelepiYakup/CelepiYakup/assets/135622873/f74f0038-ea20-4a78-b263-ea594fe15801)">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="350" />
+
 
 
 - 🌱 I’m currently learning **JS and React**
@@ -21,4 +22,4 @@
 
 <p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=celepiyakup&show_icons=true&locale=en" alt="celepiyakup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celepiyakup&" alt="celepiyakup" /></p>
+
