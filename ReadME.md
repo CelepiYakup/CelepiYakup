@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hi! 👨‍🎓, I'm a Fullstack MERN Software Developer Student 🚀
+## Hi! 👨‍🎓, I'm a Fullstack  Software Developer Student 🚀
 - 🌱 I’m currently learning **JS and React**
 - ⚡ Fun facts: I love to, play strategy games ♟ and making special coffees ☕
 <br/>
