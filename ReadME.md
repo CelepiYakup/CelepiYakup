@@ -5,7 +5,7 @@
 -  I love to, play strategy games ♟ and making special coffees ☕
 <br/>
 
-<br/>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
