@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hi! I'm Fullstack Software Developer
+## Hi! I'm Full Stack Software Developer
 - ⚡ Fun facts: 
 -  I love to, play strategy games ♟ and making special coffees ☕
 <br/>
