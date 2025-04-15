@@ -2,8 +2,6 @@
 ## Hi! I'm Full Stack Software Developer
 - ⚡ Fun facts: 
 -  I love to, play strategy games ♟ and making special coffees ☕
-<br/>
-
 
 <h3 align="left">Connect with me:</h3>
 
